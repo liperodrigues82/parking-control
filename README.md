@@ -4,7 +4,7 @@ Projeto Spring Boot de uma Parking Control API, feito em curso ministrado pela M
 
 Depedências: 
 
-- Spring MVC
+- Spring Web
 - Spring Data JPA /
   MySQL Connector
 - Spring Validation
